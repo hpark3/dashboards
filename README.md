@@ -1,9 +1,20 @@
 ### 📊 Seattle Airbnb Market Analysis Dashboard
+- **Tool:** Tableau Public
 - **Dataset:** Seattle Airbnb Open Data (2016)
 - **Data Source:** 🔗 [Kaggle – Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle?resource=download)  
 
-🔗 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/hyeran.park1528/viz/seattle-airbnb-opendatavisualization/1_1)
+<br>
 
+[![Seattle Airbnb Dashboard Preview](/seattle-airbnb/dashboard_preview.png)](https://public.tableau.com/app/profile/hyeran.park1528/viz/seattle-airbnb-opendatavisualization/1_1)
+
+
+<p align="center">
+  🔗 <a href="https://public.tableau.com/app/profile/hyeran.park1528/viz/seattle-airbnb-opendatavisualization/1_1">
+    View the interactive dashboard on Tableau Public
+  </a>
+</p
+
+<br>  
 <br>
 
 #### 📌 Overview
